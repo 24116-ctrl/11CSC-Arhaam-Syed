@@ -29,7 +29,7 @@ ul li a {
  border-right:10px solid #075a00;
  border-block-end:10px solid #075a00;
  border-left:10px solid #075a00;
- margin: 0px;
+ margin: 0;
 
 
 }
@@ -68,11 +68,13 @@ h2 {
 
 p {
  font-size: 30px;
- color: #317ebd;
+ color: #65ff3f;
  display: flex;
  justify-content: right;
  padding: 0;
  margin: 0;
+ font-family: 'Trebuchet MS', sans-serif;
+ font-weight: 800;
 }
 
 
