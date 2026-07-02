@@ -39,6 +39,7 @@ ul li a {
 
 ul li a:hover {
  background-color: #075a00;
+ font-size: 33px;
 }
 
 
@@ -67,8 +68,10 @@ h2 {
 
 
 p {
+ -webkit-text-stroke: 1px #317ebd;
+ text-shadow: 0px 2px 2px  #6cff45;
  font-size: 30px;
- color: #65ff3f;
+ color: #b6f1a7;
  display: flex;
  justify-content: right;
  padding: 0;
