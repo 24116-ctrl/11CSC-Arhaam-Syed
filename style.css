@@ -12,7 +12,7 @@ ul {
 
 ul {
  list-style-type: none;
- background-color: #1c7800;
+ background-color: #64b1ff;
  display: flex;
  justify-content: center;
  font-family: "Pliant", sans-serif;
@@ -25,10 +25,10 @@ ul li a {
  color: #ffffff;
  padding: 5px 30px;
  text-decoration: none;
- border-block-start:10px solid #075a00;
- border-right:10px solid #075a00;
- border-block-end:10px solid #075a00;
- border-left:10px solid #075a00;
+ border-block-start:10px solid #64b1ff;
+ border-right:10px solid #64b1ff;
+ border-block-end:10px solid #64b1ff;
+ border-left:10px solid #64b1ff;
  margin: 0;
 
 
@@ -38,21 +38,20 @@ ul li a {
 
 
 ul li a:hover {
- background-color: #075a00;
- font-size: 33px;
+ color: #317ebd;  
 }
 
 
 h1 {
 font-family: "Pliant", sans-serif;font-size: 50px;
- color: green;
+ color: #64b1ff;
  display: flex;
  justify-content: center;
- -webkit-text-stroke: 1px #043211;
- text-shadow: 3px 6px 6px #133a0f;
+ -webkit-text-stroke: 1px #034f9c;
+ text-shadow: 3px 6px 6px #034c97;
  padding: 0;
  margin: 0;
- background-color: #1c7800;
+ background-color: #64b1ff;
 }
 
 
@@ -86,9 +85,9 @@ p {
 
 
 body  {
- background-image: url('image/treebackground.jpg');
+ background-image: url('image/tee.jpg');
  background-repeat: no-repeat;
- background-size:cover;
+ background-size: cover;
  background-attachment: fixed;
 }
 
