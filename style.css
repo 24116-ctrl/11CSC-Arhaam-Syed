@@ -30,59 +30,29 @@ ul li a {
  border-block-end:10px solid #64b1ff;
  border-left:10px solid #64b1ff;
  margin: 0;
-
-
 }
-
-
-
 
 ul li a:hover {
- color: #317ebd;  
+ color: #008eff;
 }
+
+ul li a.active {
+  background-color: #7bbcff;
+}
+
 
 
 h1 {
 font-family: "Pliant", sans-serif;font-size: 50px;
- color: #64b1ff;
+ color: #64d0ff;
  display: flex;
  justify-content: center;
  -webkit-text-stroke: 1px #034f9c;
- text-shadow: 3px 6px 6px #034c97;
+ text-shadow: 2px 4px 4px #034c97;
  padding: 0;
  margin: 0;
  background-color: #64b1ff;
 }
-
-
-h2 {
- font-family: "Pliant", sans-serif;font-size: 45px;
- color: #ccffba;
-   -webkit-text-stroke: 1px #317ebd;
-   text-shadow: 0px 4px 2px #6cff45;
-   display: flex;
-     justify-content: right;
- padding: 0;
- margin: 0;
-}
-
-
-p {
- -webkit-text-stroke: 1px #317ebd;
- text-shadow: 0px 2px 2px  #6cff45;
- font-size: 30px;
- color: #b6f1a7;
- display: flex;
- justify-content: right;
- padding: 0;
- margin: 0;
- font-weight: 800;
-}
-
-
-
-
-
 
 body  {
  background-image: url('image/tee.jpg');
@@ -91,6 +61,8 @@ body  {
  background-attachment: fixed;
 }
 
-
+.image1 {
+  image-resolution: 5x;
+}
 
 
