@@ -64,14 +64,53 @@ body  {
 
 .image1 {
   position: absolute;
-  top: 700px;
+  top: 750px;
   left: 1750px;
   border: 10px solid #64b1ff;
+ opacity: 0.9;
 }
 
 .p {
+ font-family: "Pliant", sans-serif;
  position: absolute;
- top: 600px;
- left: 1775px;
+ top: 1040px;
+ left: 1765px;
+ font-size: 19.6px;
+ color: white;
+ text-shadow: 2px 4px 4px #434343;
+ padding: 0px;
+}
+
+.image2 {
+  position: absolute;
+  top: 660px;
+  border: 10px solid #64b1ff;
+ opacity: 0.9;
+}
+
+.p1 {
+ font-family: "Pliant", sans-serif;
+ position: absolute;
+ top: 990px;
+ left: 20px;
  font-size: 20px;
+ color: white;
+ text-shadow: 2px 4px 4px #434343;
+}
+
+.image3 {
+ position: absolute;
+ top: 660px;
+ left: 690px;
+ border: 10px solid #64b1ff;
+}
+
+.p2 {
+ font-family: "Pliant", sans-serif;
+ position: absolute;
+ top: 660px;
+ left: 710px;
+ font-size: 20px;
+ color: white;
+ text-shadow: 2px 4px 4px #434343;
 }
