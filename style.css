@@ -59,10 +59,19 @@ body  {
  background-repeat: no-repeat;
  background-size: cover;
  background-attachment: fixed;
+ background-position-y: 100px;
 }
 
 .image1 {
-  image-resolution: 5x;
+  position: absolute;
+  top: 700px;
+  left: 1750px;
+  border: 10px solid #64b1ff;
 }
 
-
+.p {
+ position: absolute;
+ top: 600px;
+ left: 1775px;
+ font-size: 20px;
+}
