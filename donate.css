@@ -66,72 +66,16 @@ background-color: #64b1ff;
 
 
 body  {
-background-color: #00d0ff;
+ background-image: url("image/backgrounddonate.png");
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
-background-position-y: 100px;
+background-position-y: 0px;
 }
 
-
-.image1 {
+.link {
+ font-size: 40px;
  position: absolute;
- top: 135px;
- left: 1150px;
- border: 10px solid #64b1ff;
-opacity: 0.9;
+ top: 225px;
+ left: 115px;
 }
-
-
-.p {
-font-family: "Pliant", sans-serif;
-position: absolute;
-top: 135px;
-left: 705px;
-font-size: 20px;
-color: white;
-text-shadow: 2px 4px 4px #434343;
-padding: 0px;
-}
-
-
-.image2 {
- position: absolute;
- top: 135px;
- border: 10px solid #64b1ff;
-}
-
-
-.heading  {
-font-family: "Pliant", sans-serif;
-color: #64d0ff;
-padding: 0;
-margin: 0;
-background-color: #007dff;
-position: absolute;
-top: 575px;
-}
-
-
-.image3 {
- position: absolute;
- top: 640px;
- border: 10px solid #64b1ff;
-}
-
-
-.image4 {
- position: absolute;
- top: 640px;
- left: 615px;
- border: 10px solid #64b1ff;
-}
-
-
-.image5 {
- position: absolute;
- top: 640px;
- left: 1056px;
- border: 10px solid #64b1ff;
-}
-
