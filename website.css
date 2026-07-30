@@ -78,3 +78,15 @@ background-position-y: 0px;
 top: 177px;
 left: 525px;
 }
+
+.info1 {
+       position: absolute;
+top: 177px;
+left: 1000px;
+}
+
+.info2 {
+       position: absolute;
+top: 177px;
+left: 1473px;
+}
