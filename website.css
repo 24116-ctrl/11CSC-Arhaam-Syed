@@ -78,3 +78,59 @@ background-position-y: 0px;
 top: 177px;
 left: 525px;
 }
+
+.info1 {
+       position: absolute;
+top: 177px;
+left: 1000px;
+}
+
+.info2 {
+    position: absolute;
+    top: 177px;
+    left: 1470px;
+}
+
+.p1 {
+    font-family: "Pliant", sans-serif;
+position: absolute;
+top: 540px;
+left: 50px;
+font-size: 20px;
+color: white;
+text-shadow: 2px 4px 4px #434343;
+padding: 0px;
+}
+
+.p2 {
+    font-family: "Pliant", sans-serif;
+position: absolute;
+top: 540px;
+left: 510px;
+font-size: 20px;
+color: white;
+text-shadow: 2px 4px 4px #434343;
+padding: 0px;
+}
+
+.p3 {
+    font-family: "Pliant", sans-serif;
+position: absolute;
+top: 540px;
+left: 985px;
+font-size: 20px;
+color: white;
+text-shadow: 2px 4px 4px #434343;
+padding: 0px;
+}
+
+.p4 {
+    font-family: "Pliant", sans-serif;
+position: absolute;
+top: 540px;
+left: 1452px;
+font-size: 20px;
+color: white;
+text-shadow: 2px 4px 4px #434343;
+padding: 0px;
+}
