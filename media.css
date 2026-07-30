@@ -66,16 +66,52 @@ background-color: #64b1ff;
 
 
 body  {
- background-image: url("image/backgro.png");
+ background-image: url("image/media.png");
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
 background-position-y: 0px;
 }
 
+.p {
+    font-family: "Pliant", sans-serif;
+position: absolute;
+top: 150px;
+left: 690px;
+font-size: 20px;
+color: white;
+text-shadow: 2px 4px 4px #434343;
+padding: 0px;
+}
+
+.yt{
+  position: absolute;
+top: 165px;
+left: 1350px;
+}
+
+.tree1 {
+    position: absolute;
+top: 555px;
+left: 690px;
+}
+
+.tree2 {
+    position: absolute;
+top: 555px;
+left: 1300px;
+}
+
 .link {
- font-size: 40px;
- position: absolute;
- top: 243px;
- left: 115px;
+  position: absolute;
+top: 300px;
+left: 293px;
+    font-size: 35px;
+}
+
+.link2 {
+  position: absolute;
+top: 400px;
+left: 305px;
+    font-size: 35px;
 }

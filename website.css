@@ -66,16 +66,15 @@ background-color: #64b1ff;
 
 
 body  {
- background-image: url("image/backgro.png");
+ background-image: url("image/info.png");
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
 background-position-y: 0px;
 }
 
-.link {
- font-size: 40px;
- position: absolute;
- top: 243px;
- left: 115px;
+.info {
+       position: absolute;
+top: 177px;
+left: 525px;
 }
