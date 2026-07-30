@@ -6,7 +6,7 @@ padding: 0;
 
 
 
-ul {
+ul { /* Font size and space between */
 margin: 1px;
 font-size: 30px
 }
@@ -14,7 +14,7 @@ font-size: 30px
 
 
 
-ul {
+ul { /* Background colour for navigation bar and code to put it in center */
 list-style-type: none;
 background-color: #64b1ff;
 display: flex;
@@ -25,7 +25,7 @@ margin: 0;
 }
 
 
-ul li a {
+ul li a { /* Block for colour */
 display: block;
 color: #ffffff;
 padding: 5px 30px;
@@ -38,12 +38,12 @@ margin: 0;
 }
 
 
-ul li a:hover {
+ul li a:hover { /* Hover effect */
 color: #008eff;
 }
 
 
-ul li a.active {
+ul li a.active { /* If your on the page this code highlights the page your on */
  background-color: #7bbcff;
 }
 
@@ -52,7 +52,7 @@ ul li a.active {
 
 
 
-h1 {
+h1 { /* Text to edit heading for size, position, shadow, strokes, and hgihlight a colour behind it */
 font-family: "Pliant", sans-serif;font-size: 50px;
 color: #64d0ff;
 display: flex;
@@ -65,7 +65,7 @@ background-color: #64b1ff;
 }
 
 
-body  {
+body  { /* Background colour */
 background-color: #00d0ff;
 background-repeat: no-repeat;
 background-size: cover;
@@ -74,16 +74,15 @@ background-position-y: 100px;
 }
 
 
-.image1 {
+.image1 { /* Image edit for position and border */
  position: absolute;
  top: 135px;
  left: 1150px;
  border: 10px solid #64b1ff;
-opacity: 0.9;
 }
 
 
-.p {
+.p { /* code to edit text for size, position, shadow, strokes, and hgihlight a colour behind it */
 font-family: "Pliant", sans-serif;
 position: absolute;
 top: 135px;
@@ -95,14 +94,14 @@ padding: 0px;
 }
 
 
-.image2 {
+.image2 { /* Image edit for position and border */
  position: absolute;
  top: 135px;
  border: 10px solid #64b1ff;
 }
 
 
-.heading  {
+.heading  { /* Text to edit heading for size, position, shadow, strokes, and hgihlight a colour behind it */
 font-family: "Pliant", sans-serif;
 color: #64d0ff;
 padding: 0;
@@ -113,14 +112,14 @@ top: 575px;
 }
 
 
-.image3 {
+.image3 {  /* Image edit for position and border */
  position: absolute;
  top: 640px;
  border: 10px solid #64b1ff;
 }
 
 
-.image4 {
+.image4 { /* Image edit for position and border */
  position: absolute;
  top: 640px;
  left: 615px;
@@ -128,10 +127,11 @@ top: 575px;
 }
 
 
-.image5 {
+.image5 { /* Image edit for position and border */
  position: absolute;
  top: 640px;
  left: 1056px;
  border: 10px solid #64b1ff;
 }
+
 
